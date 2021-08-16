@@ -1,10 +1,10 @@
 playlist = {
-	'title': 'patagonia bus', 
-	'author': 'colt steele', 
+	'title': 'AMPM', 
+	'author': 'zoraulia', 
 	'songs': [
-		{'title': 'song1', 'artist': ['blue'], 'duration': 2.5},
-		{'title': 'song2', 'artist': ['kitty', 'djcat'], 'duration': 5.25},
-		{'title': 'meowmeow', 'artist': ['garfield'], 'duration': 2.0}
+		{'title': 'Lovesick Girls', 'artist': ['BLACKPINK'], 'duration': 2.5},
+		{'title': 'Ice Cream', 'artist': ['BLACKPINK', 'Selena Gomez'], 'duration': 5.25},
+		{'title': 'Bonnie & Clyde', 'artist': ['yuqi'], 'duration': 2.0}
 	]
 }
 
